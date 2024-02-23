@@ -6,6 +6,6 @@ int main()
 char fullname;
 cout<<"Enter your name:";
 cin>>fullname;
-cout<<"Your name is:"<<fullname;
+cout<<"Your name is:"<<fullname; //This is first branch
 return 0;
 }
