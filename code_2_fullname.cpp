@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 char fullname;
-cout<<"Enter your name:"; //Hello I am Mahi
+cout<<"Enter your name:"; 
 cin>>fullname;
 cout<<"Your name is:"<<fullname;
 return 0;
